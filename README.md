@@ -6,4 +6,3 @@
 These dotfiles were originally intended for my personal use, so they may not be as organized as configurations designed for sharing.
 
 You are free to use or reference them at your own risk.  
-No warranty is provided.
